@@ -13,7 +13,6 @@ Currently, I'm expanding my skills in **Python and AI Engineering** while contin
 ## 🚀 About Me
 
 - 💻 Frontend Developer focused on **React.js**
-- 🌱 Currently learning **AI Engineering & Python**
 - 🎨 Interested in building modern and responsive web interfaces
 - 🧠 Continuously improving my development and problem-solving skills
 - 🔧 Comfortable working with Git & GitHub
