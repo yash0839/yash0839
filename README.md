@@ -65,14 +65,6 @@ A modern e-commerce web application built with React, featuring reusable compone
 
 ---
 
-### 🏋️ Gym Management System
-
-A web-based management system designed to manage gym members, trainers, plans, attendance, and administrative activities.
-
-**Tech:** React.js • JavaScript • CSS • Node.js • Database
-
----
-
 ### ☕ Brew & Bean
 
 A responsive coffee shop website with a modern interface, menu, cart functionality, reservation/slot booking, and user interaction features.
@@ -87,23 +79,8 @@ A travel website designed to provide users with a clean and engaging interface f
 
 **Tech:** HTML • CSS • JavaScript • Bootstrap
 
----
 
-### 🏙️ Civora
 
-A civic-focused web application concept designed to help users report and manage local civic issues through a simple digital interface.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
----
-
-### 🚗 DriveX Motors
-
-A modern automotive website concept designed with a clean interface for exploring vehicles and automotive information.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
----
 
 ## 📊 GitHub Stats
 
